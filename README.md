@@ -1,8 +1,8 @@
 # INFM600_Akshata.Salehittal
 
------------------------
-      DESCRIPTION
------------------------
+-----------
+DESCRIPTION
+-----------
 The data sets collected in this assignment were collected to analyze how safe the surroundings of Elementary Schools (in terms of road safety) are in the Howard County Area.   
 Schools_Elementary.csv
 Howard County Maryland (2014). Schools-Elementary [Data File]. Retrieved from https://data.howardcountymd.gov/
