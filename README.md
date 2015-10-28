@@ -39,15 +39,15 @@ This table contains the columns from Schools_Elementary.csv and Sign_Stop.csv co
 Reference: Akshata Salehittal. Combined_Dataset [Data File]. Retrieved from https://drive.google.com/open?id=0B6hNVHNzQBN3eXJDNlNfQmk4dFU
 
 -----------------
-RESEARCH QUESTION
+Research Question
 -----------------
 
 1.Is it more likely to find a School in an area with more than 40 stop signs?
 
 -------------------------
-PROCESSING DOCUMENTATION
+Processing Documentation
 ------------------------
-The enitre process of combining the tables has been documented in a word file "Processing_Dcocument.doc"
+The enitre process of combining the tables has been documented in a word file "Processing_Document.doc"
 
 -------
 License
