@@ -1,6 +1,5 @@
 # INFM600_Akshata.Salehittal
 
-This is the data set created for INFM600 Information Organization assignment.
 -----------------------
       DESCRIPTION
 -----------------------
