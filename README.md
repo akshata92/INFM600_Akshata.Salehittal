@@ -4,7 +4,9 @@
 --------------
 DESCRIPTION
 --------------
-      The data sets in this assignment were collected to analyze how safe the surroundings of Elementary Schools (in terms of road safety) are in the Howard County Area. Data sets related to my project were difficult to combine due missing data in many tables. I chose these tables as I felt I could do a better analysis.
+
+The data sets in this assignment were collected to analyze how safe the surroundings of Elementary Schools (in terms of road safety) are in the Howard County Area. Data sets related to my project were difficult to combine due missing data in many tables. I chose these tables as I felt I could do a better analysis.
+
 -------------------------
 Schools_Elementary.csv
 -------------------------
