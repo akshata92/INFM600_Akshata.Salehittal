@@ -45,7 +45,7 @@ RESEARCH QUESTION
 1.Is it more likely to find a School in an area with more than 40 stop signs?
 
 -------------------------
-PROCESSING DCOCUMENTATION
+PROCESSING DOCUMENTATION
 ------------------------
 The enitre process of combining the tables has been documented in a word file "Processing_Dcocument.doc"
 
